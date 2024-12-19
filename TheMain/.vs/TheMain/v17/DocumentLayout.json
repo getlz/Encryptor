@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mauri\\Desktop\\Github Repos\\Encryptor\\TheMain\\",
+  "WorkspaceRootPath": "C:\\Git\\Encryptor\\TheMain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16BF3E8F-5E37-48CB-8A4A-A4032D90774E}|TheMain\\TheMain.vcxproj|C:\\Users\\mauri\\Desktop\\Github Repos\\Encryptor\\TheMain\\TheMain\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{16BF3E8F-5E37-48CB-8A4A-A4032D90774E}|TheMain\\TheMain.vcxproj|C:\\Git\\Encryptor\\TheMain\\TheMain\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16BF3E8F-5E37-48CB-8A4A-A4032D90774E}|TheMain\\TheMain.vcxproj|solutionrelative:TheMain\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Github Repos\\Encryptor\\TheMain\\TheMain\\main.cpp",
+              "DocumentMoniker": "C:\\Git\\Encryptor\\TheMain\\TheMain\\main.cpp",
               "RelativeDocumentMoniker": "TheMain\\main.cpp",
-              "ToolTip": "C:\\Users\\mauri\\Desktop\\Github Repos\\Encryptor\\TheMain\\TheMain\\main.cpp",
+              "ToolTip": "C:\\Git\\Encryptor\\TheMain\\TheMain\\main.cpp",
               "RelativeToolTip": "TheMain\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-19T22:34:05.633Z",
               "EditorCaption": ""
